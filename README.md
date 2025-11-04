@@ -33,6 +33,8 @@ Program to create and design an android application Send SMS using Intent.
 Developed by : KARTHICK KISHORE T
 Registeration Number : 212223220042
 */
+```
+```
 package com.example.sms;
 
 import android.content.Intent;
