@@ -77,7 +77,6 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-# XML
 
 ```
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
